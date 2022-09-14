@@ -1,0 +1,19 @@
+{
+  "name": "testingrefresher",
+  "version": "1.0.0",
+  "description": "Exploring jest testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devkeycode/testingRefresher.git"
+  },
+  "author": "Lalit Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devkeycode/testingRefresher/issues"
+  },
+  "homepage": "https://github.com/devkeycode/testingRefresher#readme"
+}

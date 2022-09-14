@@ -1,2 +1,3 @@
 # testingRefresher
-Explroing jest testing framework, refreshing concepts
+
+Exploring jest testing framework, refreshing concepts
