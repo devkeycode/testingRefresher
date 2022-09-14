@@ -1,8 +1,8 @@
 {
-  "name": "testingrefresher",
+  "name": "unitandintegration",
   "version": "1.0.0",
-  "description": "Exploring jest testing framework",
-  "main": "index.js",
+  "description": "to explore unit and integration testing",
+  "main": "server.js",
   "scripts": {
     "test": "jest"
   },
